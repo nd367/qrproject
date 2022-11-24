@@ -1,3 +1,4 @@
+import os
 import os.math
 
 from qrcodegenerator import create_qr_code_image
